@@ -1,0 +1,5 @@
+业务功能：
+1.用户注册&用户登录 （shop_user）
+2.商品查询（shop_category,shop_product）
+3.商品展示（shop_product）
+4.添加购物车（shop_product,shop_user,shop_cart）
